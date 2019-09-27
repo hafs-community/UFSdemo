@@ -35,4 +35,8 @@ More developments for gfs.v16.
 
 Bug fix for gfs.v16.
 
+Prepare for public release v4.
+
+Bug fix for release v4.
+
 
