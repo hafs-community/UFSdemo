@@ -39,4 +39,6 @@ Prepare for public release v4.
 
 Bug fix for release v4.
 
+Continue getting more features in develop.
+
 
