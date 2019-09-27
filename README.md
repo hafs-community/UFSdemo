@@ -25,4 +25,6 @@ release/v2.1 changes.
 
 Bug fix on v2.1.
 
+Some more features in develop.
+
 
