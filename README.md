@@ -17,3 +17,12 @@ Feature 1 into develop.
 
 Feature 2 into develop.
 
+release/v2 changes.
+
+release/v2 more changes.
+
+release/v2.1 changes.
+
+Bug fix on v2.1.
+
+
