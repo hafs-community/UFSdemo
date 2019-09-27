@@ -1,4 +1,6 @@
 # UFSdemo
 A UFS demo repository
 
-release/UFSdemo.v1
+release/v1
+
+Some version 1 changes.
