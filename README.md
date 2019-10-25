@@ -30,3 +30,19 @@ Some more features in develop.
 v3 changes.
 
 prepare for gfs v16 implementation.
+
+More developments for gfs.v16.
+
+Bug fix for gfs.v16.
+
+Prepare for public release v4.
+
+Bug fix for release v4.
+
+Continue getting more features in develop.
+
+Starting gfs.v18 implementation work.
+
+Bug fix for gfs.v18.
+
+Prepare Public Release v5
