@@ -41,4 +41,7 @@ Bug fix for release v4.
 
 Continue getting more features in develop.
 
+Starting gfs.v18 implementation work.
+
+Bug fix for gfs.v18.
 
