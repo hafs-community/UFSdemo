@@ -46,3 +46,5 @@ Starting gfs.v18 implementation work.
 Bug fix for gfs.v18.
 
 Prepare Public Release v5
+
+hafs.v1 related changes and bug fixes.
