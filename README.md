@@ -48,3 +48,5 @@ Bug fix for gfs.v18.
 Prepare Public Release v5
 
 Start version 6.
+
+New feature comes in develop.
