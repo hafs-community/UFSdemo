@@ -1,0 +1,1 @@
+Test deleting branches but keeping tags.
